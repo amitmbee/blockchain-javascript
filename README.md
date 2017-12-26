@@ -1,0 +1,1 @@
+Blockchain implementation in JS inspired by https://www.youtube.com/watch?v=zVqczFZr124
